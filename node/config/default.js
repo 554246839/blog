@@ -5,35 +5,35 @@ const CONFIG = {
   TIMEOUT: 10000,
 
   MYSQL: {
-    DATABASE: 'test',
-    USERNAME: 'root',
-    PASSWORD: 'kd123456',
-    PORT: '3306',
-    HOST: 'localhost'
+    DATABASE: '',
+    USERNAME: '',
+    PASSWORD: '',
+    PORT: '',
+    HOST: ''
   },
 
   MONGO: {
     // HOST: '127.0.0.1',
-    HOST: '112.74.50.222',
-    PORT: '27017',
-    DATABASE: 'blog',
-    USERNAME: 'admin',
-    PASSWORD: 'kd@123456'
+    HOST: '',
+    PORT: '',
+    DATABASE: '',
+    USERNAME: '',
+    PASSWORD: ''
   },
 
   REDIS: {
     // HOST: '127.0.0.1',
-    HOST: '112.74.50.222',
-    PORT: '6379',
-    PASSWORD: 'kd@123456',
+    HOST: '',
+    PORT: '',
+    PASSWORD: '',
     TTL: 60 * 60 * 24,
     PREFIX: 'SAM:',
     FAMILY: 4
   },
 
   EMAIL: {
-    FROM: '554246839@qq.com',
-    PASS: 'hhfjmogcdmarbfbg',
+    FROM: '',
+    PASS: '',
     SERVICE: 'qq',
     HOST: 'smtp.qq.com',
     PORT: 465
