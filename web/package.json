@@ -16,7 +16,7 @@
     "koa": "^2.6.2",
     "mavon-editor": "^2.7.7",
     "node-sass": "^4.13.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "sass-loader": "^8.0.0"
   },
   "devDependencies": {
